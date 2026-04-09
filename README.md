@@ -29,6 +29,6 @@ Comprehensive study notes covering the core mechanics of Python.
 
 ## Let's Connect!
 Feel free to reach out or check out my professional profile:
-* **LinkedIn:** [Click here to visit my LinkedIn](www.linkedin.com/in/rümeysa-esra-güngören-87a395287)
+* **LinkedIn:** [Click here to visit my LinkedIn](https://www.linkedin.com/in/r%C3%BCmeysa-esra-g%C3%BCng%C3%B6ren-87a395287/)
 
 *Always learning, always coding.* 🚀
