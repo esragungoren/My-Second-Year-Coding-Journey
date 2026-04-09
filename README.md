@@ -6,7 +6,7 @@ Hi, I'm Rümeysa Esra! 👋 Welcome to my Python code vault.
 
 This repository contains the mini-projects, database integrations, and Object-Oriented Programming (OOP) concepts I explored and developed during my second year as a Software Engineering student.
 
-## Repository Structure
+## 📂 Repository Structure
 
 ### `Python_Mini_Projects`
 Functional console applications demonstrating file handling, modules, and database integration.
@@ -27,7 +27,7 @@ Comprehensive study notes covering the core mechanics of Python.
 
 ---
 
-## Let's Connect!
+## 📫 Let's Connect!
 Feel free to reach out or check out my professional profile:
 * **LinkedIn:** [Click here to visit my LinkedIn](https://www.linkedin.com/in/r%C3%BCmeysa-esra-g%C3%BCng%C3%B6ren-87a395287/)
 
